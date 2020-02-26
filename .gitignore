@@ -1,5 +1,6 @@
 # venv directory
 .venv/ 
+/.venv/
 /.venv
 *.env 
 .env* 
