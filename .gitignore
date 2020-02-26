@@ -1,9 +1,5 @@
 # venv directory
-.venv/ 
-/.venv/
-/.venv
-*.venv
-.venv
+.venv/* 
 *.env 
 .env* 
 *.local
